@@ -1,29 +1,36 @@
-This is a Next.js project bootstrapped with create-next-app.
 
-Getting Started
-First, run the development server:
+Este é um projeto Next.js inicializado com create-next-app.
 
+## Primeiros Passos
+
+Primeiro, execute o servidor de desenvolvimento:
+
+```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
-Open http://localhost:3000 with your browser to see the result.
+```
 
-You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
-This project uses next/font to automatically optimize and load Geist, a new font family for Vercel.
+Você pode começar a editar a página modificando `app/page.tsx`. A página será atualizada automaticamente à medida que você editar o arquivo.
 
-Learn More
-To learn more about Next.js, take a look at the following resources:
+Este projeto usa `next/font` para otimizar e carregar automaticamente a Geist, uma nova família de fontes da Vercel.
 
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
+## Saiba Mais
 
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+Para saber mais sobre o Next.js, consulte os seguintes recursos:
 
-Check out our Next.js deployment documentation for more details.
+- [Documentação do Next.js](https://nextjs.org/docs) - Aprenda sobre os recursos e API do Next.js.
+- [Aprenda Next.js](https://nextjs.org/learn) - Um tutorial interativo do Next.js.
+- Você pode conferir o [repositório do Next.js no GitHub](https://github.com/vercel/next.js) - seu feedback e contribuições são bem-vindos!
+
+## Implantação na Vercel
+
+A maneira mais fácil de implantar seu aplicativo Next.js é usar a plataforma Vercel, dos criadores do Next.js.
+
+Confira a [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
