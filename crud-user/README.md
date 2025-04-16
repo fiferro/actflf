@@ -14,10 +14,6 @@
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Siga-nos no Twitter"></a>
 </p>
 
-## Descrição
-
-Repositório inicial do framework [Nest](https://github.com/nestjs/nest) em TypeScript.
-
 ## Configuração do projeto
 
 ```bash
